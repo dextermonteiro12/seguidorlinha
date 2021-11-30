@@ -1,7 +1,7 @@
 # Seguidor de linha
 Projeto de um robô seguidor de linha usando o Arduino.
-##Autor
+## Autor
 Filipe Monteiro
-##Licença
+## Licença
 Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
 
